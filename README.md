@@ -1,6 +1,6 @@
 # Sign your Commits with GPG
 
-This repository provides simple intructions on how to sign your Git commits locally using GPG, in both MacOS and Windows Environments.
+This repository provides simple intructions on how to sign your Git commits locally using GPG, in both [MacOS](./macos/README.md) and [Windows](./windows/README.md) Environments.
 
 ## Why use GPG signatures?
 
